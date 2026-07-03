@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CommerceSettings xmlns="http://soap.sforce.com/2006/04/metadata">
+    <b2CMerchantAgentEnabled>false</b2CMerchantAgentEnabled>
+    <commerceAppEnabled>false</commerceAppEnabled>
+    <commerceConciergeEnabled>false</commerceConciergeEnabled>
+    <commerceContractPricing>false</commerceContractPricing>
+    <commerceCopilotEcomEnabled>false</commerceCopilotEcomEnabled>
+    <commerceDiscoveryExpansion>false</commerceDiscoveryExpansion>
+    <commerceEnabled>false</commerceEnabled>
+    <commerceProcedurePlan>false</commerceProcedurePlan>
+    <extendCommerceContext>false</extendCommerceContext>
+</CommerceSettings>
